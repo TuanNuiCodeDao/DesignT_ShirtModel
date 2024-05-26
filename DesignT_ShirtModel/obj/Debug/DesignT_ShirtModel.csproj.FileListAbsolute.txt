@@ -1,0 +1,15 @@
+C:\Users\levan\OneDrive\Desktop\DesignT_ShirtModel\DesignT_ShirtModel\bin\Debug\DesignT_ShirtModel.exe.config
+C:\Users\levan\OneDrive\Desktop\DesignT_ShirtModel\DesignT_ShirtModel\bin\Debug\DesignT_ShirtModel.exe
+C:\Users\levan\OneDrive\Desktop\DesignT_ShirtModel\DesignT_ShirtModel\bin\Debug\DesignT_ShirtModel.pdb
+C:\Users\levan\OneDrive\Desktop\DesignT_ShirtModel\DesignT_ShirtModel\obj\Debug\DesignT_ShirtModel.csproj.AssemblyReference.cache
+C:\Users\levan\OneDrive\Desktop\DesignT_ShirtModel\DesignT_ShirtModel\obj\Debug\DesignT_ShirtModel.csproj.SuggestedBindingRedirects.cache
+C:\Users\levan\OneDrive\Desktop\DesignT_ShirtModel\DesignT_ShirtModel\obj\Debug\DesignT_ShirtModel.Form1.resources
+C:\Users\levan\OneDrive\Desktop\DesignT_ShirtModel\DesignT_ShirtModel\obj\Debug\DesignT_ShirtModel.F_DataSet.resources
+C:\Users\levan\OneDrive\Desktop\DesignT_ShirtModel\DesignT_ShirtModel\obj\Debug\DesignT_ShirtModel.Properties.Resources.resources
+C:\Users\levan\OneDrive\Desktop\DesignT_ShirtModel\DesignT_ShirtModel\obj\Debug\DesignT_ShirtModel.csproj.GenerateResource.cache
+C:\Users\levan\OneDrive\Desktop\DesignT_ShirtModel\DesignT_ShirtModel\obj\Debug\DesignT_ShirtModel.csproj.CoreCompileInputs.cache
+C:\Users\levan\OneDrive\Desktop\DesignT_ShirtModel\DesignT_ShirtModel\obj\Debug\DesignT_ShirtModel.exe
+C:\Users\levan\OneDrive\Desktop\DesignT_ShirtModel\DesignT_ShirtModel\obj\Debug\DesignT_ShirtModel.pdb
+C:\Users\levan\OneDrive\Desktop\DesignT_ShirtModel\DesignT_ShirtModel\obj\Debug\DesignT_ShirtModel.F_ViewImage.resources
+C:\Users\levan\OneDrive\Desktop\DesignT_ShirtModel\DesignT_ShirtModel\obj\Debug\DesignT_ShirtModel.F_Mockup.resources
+C:\Users\levan\OneDrive\Desktop\DesignT_ShirtModel\DesignT_ShirtModel\obj\Debug\DesignT_ShirtModel.F_LayKhung.resources
